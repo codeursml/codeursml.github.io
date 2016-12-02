@@ -10,5 +10,3 @@ Certes, nous ne sommes pas aussi nombreux que nos confrères Sénégalais ou Ivo
 Vous avez besoin d'une application mobile, d'un site Web, d'un système d'information, d'une «base de données» ou peut-être d'une extension d'un outil existant ? Vous avez frappé à la bonne porte car en frappant ici, vous frappez à toutes nos portes à la fois.
 
 **Codeurs.ml** est le réseau **informel et transparent** des développeurs du Mali.
-
-[Accéder au réseau](/reseau)
